@@ -1,1 +1,1 @@
-# HackerRankTest
+# HackerRankTest  - Angular shopping cart app
